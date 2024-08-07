@@ -1,0 +1,40 @@
+**👋Hi there! I'm Neha Gahlot**
+<br>
+Welcome to my GitHub profile! I'm excited to share my journey and projects with you. Here's a bit about me and my work:
+<br>
+<br>
+**👨‍💻 About Me**
+<br>
+▪️🎓 I am currently pursuing a B.Tech in Artificial Intelligence and Machine Learning (AIML).
+<br>
+▪️🌱 I'm passionate about exploring the vast world of AI, developing innovative solutions, and continuously expanding my knowledge in this exiciting field.
+<br>
+▪️🔍 I'm constantly learning and exploring new technologies and techniques to enhance my skills.
+<br>
+<br>
+**🌟 Projects and Achievements**
+<br>
+*Internpe Python Programming Internship* (June 24, 2024 - July 21, 2024)
+<br>
+Completed several projects including a digital clock, Tic Tac Toe game, Snake game, and Connect Four game using Python and the tkinter or pygame modules.
+<br>
+<br>
+**💻 Skills**
+<br>
+▪️Programming Languages: Python
+<br>
+▪️Technologies: Tkinter, Pygame
+<br>
+▪️Areas of Expertise: Machine Learning, Artificial Intelligence
+<br>
+▪️Others:SQL
+<br>
+<br>
+**🌱 Learning**
+<br>
+Advanced Machine Learning techniques
+<br>
+<br>
+**💬 Let's Connect!**
+<br>
+LinkedIn:https://www.linkedin.com/in/neha-gahlot-8aa0ba314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
